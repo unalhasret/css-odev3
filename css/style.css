@@ -126,6 +126,11 @@ button:hover{
   box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19)
 }
 
+.voice{
+  align-items: center;
+  display: flex;
+  margin-right: 9px;
+}
 .googlesearch {
   margin: 11px 4px;
   padding: 0 16px;
